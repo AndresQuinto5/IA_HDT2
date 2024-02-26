@@ -21,6 +21,9 @@ Este laboratorio se centra en la aplicación de algoritmos por medio de Markov D
 3. [1 pts.] Task 3
 Total 2.5pts
 
+### Resultados:
+[Resultados](https://github.com/AndresQuinto5/IA_HDT2/blob/main/HDT2.ipynb)
+
 ## Requisitos Previos (Usamos CONDA !! :D)
 
 - Anaconda o Miniconda instalado en su sistema. Si no tiene Anaconda o Miniconda, puede descargarlo desde [aquí](https://www.anaconda.com/products/individual) o [aquí](https://docs.conda.io/en/latest/miniconda.html), respectivamente.
