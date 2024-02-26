@@ -2,8 +2,24 @@
 # Hoja de trabajo 2 - Inteligencia Artificial
 ## CC3045 - Semestre I - 2024
 
-----
+### Descripción
+Este laboratorio se centra en la aplicación de algoritmos por medio de Markov Decision Process creando un ambiente de FrozenLake.
 
+### Tareas
+- **Task 1:** Preguntas Teóricas
+- **Task 2:** Preguntas Analiticas
+- **Task 3:** Preguntas prácticas y problema de frozen.
+
+### Entregables
+- Código fuente en un repositorio de GitHub.
+
+### Evaluación
+1. [0.5 pt] Task 1
+    [0.1 pts] Cada pregunta
+2. [1 pts.] Task 2
+    [0.5 pts] Cada pregunta
+3. [1 pts.] Task 3
+Total 2.5pts
 
 ## Requisitos Previos (Usamos CONDA !! :D)
 
